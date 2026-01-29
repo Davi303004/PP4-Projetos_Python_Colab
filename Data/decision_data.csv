@@ -1,0 +1,201 @@
+id_chamado,categoria,equipamento,prioridade,solicitante,equipe_destinada,localizacao,hora_registro,dia_semana,chamados_previos,carga_equipe,tempo_atendimento_horas,sla_atendida
+5096,SOLICITAÇÃO,Roteador,MEDIA,Gerente,Compras,Andar3,8,Quinta,0,baixa,0.5,SIM
+5016,MANUTENÇÃO,Nobreak,BAIXA,Financeiro,Suporte TI,Andar2,16,Segunda,1,media,78.93,NAO
+5031,SOLICITAÇÃO,Nobreak,ALTA,Analista,Infraestrutura,Andar1,8,Quinta,1,media,5.74,SIM
+5159,PROBLEMA,Nobreak,ALTA,RH,Administrativo,Andar2,15,Quinta,2,media,8.36,NAO
+5129,SOLICITAÇÃO,Monitor,ALTA,Suporte,Suporte TI,Andar2,13,Sabado,1,baixa,6.74,SIM
+5116,SOLICITAÇÃO,Impressora,MEDIA,Analista,Administrativo,Andar2,18,Terca,1,alta,0.67,SIM
+5070,SOLICITAÇÃO,Impressora,ALTA,Analista,Segurança da Informação,Andar2,14,Sexta,0,media,1.27,SIM
+5171,SOLICITAÇÃO,Headset,MEDIA,Analista,Infraestrutura,Andar1,15,Sexta,1,baixa,18.88,SIM
+5175,PROBLEMA,Roteador,BAIXA,Analista,Suporte TI,Andar2,9,Quinta,2,baixa,22.42,SIM
+5046,PROBLEMA,Telefone,MEDIA,Gerente,Segurança da Informação,Andar1,11,Quarta,1,baixa,29.67,NAO
+5067,PROBLEMA,Nobreak,MEDIA,Financeiro,Segurança da Informação,Andar3,14,Sabado,1,alta,0.56,SIM
+5183,SOLICITAÇÃO,Scanner,MEDIA,Financeiro,Administrativo,Andar2,16,Sexta,1,media,9.96,SIM
+5166,SOLICITAÇÃO,Scanner,BAIXA,Analista,Desenvolvimento,Andar3,14,Quarta,0,baixa,79.12,NAO
+5079,SOLICITAÇÃO,Impressora,BAIXA,RH,Compras,Andar1,17,Terca,0,media,81.51,NAO
+5187,PROBLEMA,Notebook,MEDIA,Financeiro,Compras,Andar1,11,Sexta,0,media,15.79,SIM
+5178,SOLICITAÇÃO,Monitor,MEDIA,Desenvolvedor,Infraestrutura,Andar3,15,Sexta,3,media,0.5,SIM
+5057,PROBLEMA,Roteador,MEDIA,Suporte,Segurança da Informação,Andar1,10,Sabado,0,baixa,7.37,SIM
+5153,SOLICITAÇÃO,Impressora,CRITICA,Financeiro,Desenvolvimento,Andar3,11,Segunda,3,media,3.44,SIM
+5083,PROBLEMA,Monitor,ALTA,Financeiro,Suporte TI,Andar1,14,Quinta,3,media,3.81,SIM
+5069,SOLICITAÇÃO,Roteador,BAIXA,Desenvolvedor,Desenvolvimento,Andar3,12,Segunda,2,baixa,0.89,SIM
+5125,SOLICITAÇÃO,Scanner,BAIXA,RH,Suporte TI,Andar3,9,Quinta,1,alta,29.53,SIM
+5017,PROBLEMA,Roteador,ALTA,Desenvolvedor,Suporte TI,Andar1,8,Terca,4,media,9.73,NAO
+5149,MANUTENÇÃO,Telefone,BAIXA,Suporte,Desenvolvimento,Andar2,14,Sabado,1,baixa,0.87,SIM
+5094,SOLICITAÇÃO,Headset,CRITICA,Financeiro,Administrativo,Andar1,9,Segunda,1,alta,0.29,SIM
+5066,PROBLEMA,Nobreak,CRITICA,Financeiro,Desenvolvimento,Remoto,14,Quinta,0,media,0.41,SIM
+5061,PROBLEMA,Impressora,MEDIA,Desenvolvedor,Administrativo,Andar2,13,Sexta,1,baixa,6.59,SIM
+5085,PROBLEMA,Impressora,MEDIA,Suporte,Administrativo,Remoto,11,Quarta,1,media,0.5,SIM
+5068,PROBLEMA,Servidor,ALTA,Desenvolvedor,Administrativo,Andar2,17,Terca,0,baixa,11.85,NAO
+5126,MANUTENÇÃO,Monitor,MEDIA,Desenvolvedor,Desenvolvimento,Andar2,14,Quinta,3,media,13.7,SIM
+5133,MANUTENÇÃO,Scanner,CRITICA,Suporte,Administrativo,Andar1,18,Quinta,2,alta,0.62,SIM
+5010,PROBLEMA,Servidor,BAIXA,RH,Desenvolvimento,Remoto,15,Sabado,0,media,47.51,SIM
+5019,PROBLEMA,Nobreak,MEDIA,Gerente,Desenvolvimento,Andar3,15,Sexta,2,alta,0.74,SIM
+5056,PROBLEMA,Servidor,MEDIA,Analista,Compras,Remoto,16,Sexta,1,baixa,6.03,SIM
+5076,SOLICITAÇÃO,Tablet,MEDIA,RH,Desenvolvimento,Andar1,10,Quinta,1,baixa,23.02,SIM
+5151,MANUTENÇÃO,Notebook,ALTA,Gerente,Infraestrutura,Andar3,13,Terca,2,baixa,6.8,SIM
+5105,PROBLEMA,Servidor,MEDIA,Financeiro,Infraestrutura,Andar2,9,Quarta,1,alta,25.42,NAO
+5136,SOLICITAÇÃO,Tablet,BAIXA,Financeiro,Compras,Andar3,13,Segunda,3,alta,82.46,NAO
+5138,PROBLEMA,Impressora,MEDIA,Suporte,Compras,Andar1,12,Domingo,0,baixa,14.68,SIM
+5165,SOLICITAÇÃO,Notebook,CRITICA,Financeiro,Desenvolvimento,Andar1,18,Sexta,0,media,0.39,SIM
+5077,MANUTENÇÃO,Tablet,BAIXA,Analista,Segurança da Informação,Andar1,8,Sexta,1,baixa,42.85,SIM
+5080,SOLICITAÇÃO,Telefone,BAIXA,Financeiro,Compras,Andar3,9,Domingo,0,alta,132.04,NAO
+5198,SOLICITAÇÃO,Headset,ALTA,Gerente,Compras,Andar2,17,Quinta,1,baixa,1.71,SIM
+5039,SOLICITAÇÃO,Headset,CRITICA,Analista,Suporte TI,Andar2,18,Sexta,1,baixa,5.05,NAO
+5025,SOLICITAÇÃO,Nobreak,BAIXA,Gerente,Suporte TI,Andar1,11,Sabado,4,baixa,35.68,SIM
+5123,PROBLEMA,Notebook,MEDIA,RH,Compras,Remoto,8,Quinta,0,baixa,3.92,SIM
+5196,PROBLEMA,Servidor,CRITICA,Gerente,Suporte TI,Andar1,8,Domingo,0,baixa,2.42,SIM
+5030,SOLICITAÇÃO,Roteador,MEDIA,Analista,Segurança da Informação,Andar3,10,Domingo,0,media,8.13,SIM
+5020,MANUTENÇÃO,Notebook,MEDIA,RH,Suporte TI,Andar1,10,Quarta,3,alta,40.36,NAO
+5144,MANUTENÇÃO,Monitor,MEDIA,RH,Suporte TI,Andar2,13,Sexta,1,baixa,16.76,SIM
+5087,MANUTENÇÃO,Roteador,ALTA,Gerente,Segurança da Informação,Andar2,11,Sabado,2,baixa,8.53,NAO
+5115,PROBLEMA,Roteador,MEDIA,Suporte,Segurança da Informação,Andar1,11,Sabado,2,media,16.27,SIM
+5174,SOLICITAÇÃO,Servidor,MEDIA,Financeiro,Suporte TI,Andar1,10,Quarta,1,alta,42.74,NAO
+5006,PROBLEMA,Scanner,MEDIA,RH,Suporte TI,Andar2,17,Domingo,0,media,12.87,SIM
+5127,MANUTENÇÃO,Nobreak,MEDIA,Desenvolvedor,Compras,Andar3,10,Domingo,0,media,28.82,NAO
+5118,PROBLEMA,Tablet,ALTA,RH,Infraestrutura,Andar2,15,Terca,2,baixa,14.05,NAO
+5074,PROBLEMA,Tablet,ALTA,RH,Infraestrutura,Remoto,17,Sexta,2,baixa,17.56,NAO
+5141,MANUTENÇÃO,Roteador,ALTA,Desenvolvedor,Suporte TI,Andar2,18,Segunda,1,baixa,12.98,NAO
+5099,SOLICITAÇÃO,Headset,CRITICA,Analista,Infraestrutura,Andar1,8,Domingo,3,baixa,0.65,SIM
+5173,PROBLEMA,Telefone,MEDIA,Desenvolvedor,Compras,Andar2,8,Quinta,1,media,8.06,SIM
+5097,SOLICITAÇÃO,Roteador,MEDIA,RH,Desenvolvimento,Andar1,12,Segunda,0,baixa,22.92,SIM
+5170,SOLICITAÇÃO,Nobreak,BAIXA,RH,Segurança da Informação,Andar1,8,Quarta,0,baixa,61.02,SIM
+5098,MANUTENÇÃO,Monitor,ALTA,RH,Segurança da Informação,Andar1,16,Sabado,0,media,1.73,SIM
+5032,MANUTENÇÃO,Notebook,BAIXA,Analista,Segurança da Informação,Andar1,14,Domingo,0,media,58.35,SIM
+5013,MANUTENÇÃO,Scanner,BAIXA,Gerente,Infraestrutura,Andar3,9,Sexta,2,baixa,81.1,NAO
+5036,PROBLEMA,Servidor,MEDIA,Financeiro,Infraestrutura,Andar2,8,Segunda,0,media,71.15,NAO
+5120,SOLICITAÇÃO,Nobreak,BAIXA,Analista,Desenvolvimento,Andar3,13,Domingo,0,media,79.36,NAO
+5043,PROBLEMA,Servidor,MEDIA,Desenvolvedor,Administrativo,Andar2,10,Domingo,3,baixa,9.42,SIM
+5190,SOLICITAÇÃO,Tablet,ALTA,Suporte,Administrativo,Andar1,13,Sabado,0,media,2.09,SIM
+5091,SOLICITAÇÃO,Tablet,MEDIA,Desenvolvedor,Compras,Andar2,10,Quinta,3,media,28.47,NAO
+5137,PROBLEMA,Roteador,ALTA,Gerente,Administrativo,Andar3,15,Terca,3,media,10.97,NAO
+5052,SOLICITAÇÃO,Monitor,CRITICA,Desenvolvedor,Desenvolvimento,Andar2,11,Quinta,0,media,0.97,SIM
+5128,PROBLEMA,Headset,BAIXA,Suporte,Compras,Remoto,16,Terca,1,media,83.69,NAO
+5163,SOLICITAÇÃO,Tablet,BAIXA,Suporte,Desenvolvimento,Andar3,11,Sexta,2,baixa,38.85,SIM
+5042,SOLICITAÇÃO,Monitor,ALTA,Suporte,Administrativo,Andar1,12,Quarta,1,media,9.86,NAO
+5119,MANUTENÇÃO,Nobreak,ALTA,Gerente,Suporte TI,Andar1,17,Domingo,0,alta,4.94,SIM
+5114,SOLICITAÇÃO,Telefone,MEDIA,RH,Compras,Andar2,14,Segunda,2,baixa,31.04,NAO
+5027,PROBLEMA,Headset,MEDIA,Gerente,Segurança da Informação,Andar3,13,Terca,1,baixa,11.5,SIM
+5140,PROBLEMA,Telefone,MEDIA,Desenvolvedor,Infraestrutura,Andar1,13,Domingo,1,alta,49.77,NAO
+5101,PROBLEMA,Tablet,MEDIA,Financeiro,Suporte TI,Andar2,15,Sabado,1,baixa,9.87,SIM
+5112,SOLICITAÇÃO,Scanner,BAIXA,RH,Administrativo,Andar1,9,Segunda,1,baixa,12.26,SIM
+5003,SOLICITAÇÃO,Servidor,ALTA,Suporte,Administrativo,Andar2,18,Quinta,1,media,9.43,NAO
+5078,MANUTENÇÃO,Servidor,MEDIA,Suporte,Suporte TI,Andar3,9,Terca,0,baixa,0.7,SIM
+5047,MANUTENÇÃO,Notebook,ALTA,Gerente,Compras,Andar1,14,Segunda,1,baixa,2.47,SIM
+5188,SOLICITAÇÃO,Notebook,MEDIA,Desenvolvedor,Compras,Andar1,9,Sabado,0,baixa,17.4,SIM
+5192,MANUTENÇÃO,Impressora,MEDIA,Financeiro,Compras,Andar1,16,Quarta,1,baixa,31.63,NAO
+5086,MANUTENÇÃO,Scanner,MEDIA,Suporte,Administrativo,Andar1,18,Domingo,0,baixa,12.95,SIM
+5162,SOLICITAÇÃO,Roteador,MEDIA,Gerente,Compras,Remoto,14,Segunda,3,baixa,9.49,SIM
+5037,SOLICITAÇÃO,Headset,MEDIA,Desenvolvedor,Desenvolvimento,Andar1,10,Sabado,2,baixa,0.46,SIM
+5191,SOLICITAÇÃO,Monitor,MEDIA,RH,Desenvolvimento,Andar1,16,Domingo,0,media,7.12,SIM
+5062,PROBLEMA,Servidor,MEDIA,Gerente,Infraestrutura,Andar1,12,Segunda,0,baixa,21.74,SIM
+5023,PROBLEMA,Headset,MEDIA,Gerente,Administrativo,Andar3,18,Sabado,0,baixa,18.43,SIM
+5142,MANUTENÇÃO,Tablet,CRITICA,Financeiro,Desenvolvimento,Andar1,9,Quinta,1,baixa,0.55,SIM
+5102,PROBLEMA,Servidor,BAIXA,Analista,Infraestrutura,Andar1,16,Sexta,0,baixa,43.39,SIM
+5034,PROBLEMA,Nobreak,BAIXA,Desenvolvedor,Suporte TI,Andar1,14,Quinta,1,media,1.0,SIM
+5012,SOLICITAÇÃO,Servidor,CRITICA,Financeiro,Compras,Andar1,11,Sabado,0,media,12.71,NAO
+5195,SOLICITAÇÃO,Telefone,BAIXA,Desenvolvedor,Infraestrutura,Remoto,15,Quarta,1,alta,87.48,NAO
+5160,SOLICITAÇÃO,Monitor,ALTA,Suporte,Administrativo,Andar3,16,Terca,2,baixa,4.64,SIM
+5007,MANUTENÇÃO,Telefone,MEDIA,Suporte,Suporte TI,Andar1,10,Terca,2,media,23.0,SIM
+5028,PROBLEMA,Telefone,MEDIA,RH,Compras,Andar1,18,Sabado,1,alta,20.07,SIM
+5121,MANUTENÇÃO,Scanner,ALTA,RH,Administrativo,Andar2,8,Quarta,1,media,1.13,SIM
+5005,MANUTENÇÃO,Telefone,BAIXA,RH,Suporte TI,Andar1,12,Quarta,2,media,48.67,SIM
+5033,SOLICITAÇÃO,Nobreak,MEDIA,RH,Infraestrutura,Andar1,8,Terca,2,alta,55.6,NAO
+5143,PROBLEMA,Scanner,MEDIA,Suporte,Compras,Andar1,8,Quinta,0,alta,0.64,SIM
+5146,SOLICITAÇÃO,Notebook,MEDIA,RH,Suporte TI,Andar1,18,Sexta,1,baixa,13.65,SIM
+5110,PROBLEMA,Scanner,MEDIA,RH,Desenvolvimento,Andar1,13,Sexta,3,baixa,26.7,NAO
+5145,PROBLEMA,Monitor,MEDIA,RH,Compras,Andar1,10,Quinta,2,baixa,18.24,SIM
+5011,SOLICITAÇÃO,Telefone,ALTA,Analista,Infraestrutura,Andar3,11,Domingo,0,baixa,3.55,SIM
+5063,PROBLEMA,Monitor,MEDIA,Suporte,Administrativo,Andar1,13,Sabado,0,baixa,43.28,NAO
+5113,SOLICITAÇÃO,Tablet,ALTA,Analista,Compras,Andar3,11,Quinta,1,baixa,0.2,SIM
+5147,PROBLEMA,Nobreak,MEDIA,Suporte,Compras,Andar1,18,Quinta,2,media,14.17,SIM
+5167,SOLICITAÇÃO,Servidor,ALTA,Financeiro,Administrativo,Andar2,8,Sabado,1,media,3.8,SIM
+5001,PROBLEMA,Notebook,ALTA,Gerente,Infraestrutura,Andar1,14,Segunda,1,media,7.9,SIM
+5199,PROBLEMA,Scanner,MEDIA,Suporte,Segurança da Informação,Andar1,15,Terca,1,baixa,0.48,SIM
+5154,SOLICITAÇÃO,Notebook,MEDIA,Gerente,Administrativo,Andar1,11,Terca,1,baixa,50.33,NAO
+5071,SOLICITAÇÃO,Tablet,MEDIA,Financeiro,Compras,Andar1,13,Domingo,0,media,20.75,SIM
+5124,PROBLEMA,Impressora,MEDIA,Analista,Infraestrutura,Andar2,8,Sexta,3,baixa,24.67,NAO
+5065,MANUTENÇÃO,Nobreak,MEDIA,Financeiro,Infraestrutura,Remoto,17,Segunda,1,media,12.67,SIM
+5045,SOLICITAÇÃO,Tablet,MEDIA,Analista,Suporte TI,Remoto,9,Sabado,1,alta,14.12,SIM
+5164,MANUTENÇÃO,Nobreak,MEDIA,Analista,Segurança da Informação,Andar1,17,Sabado,2,alta,16.62,SIM
+5029,SOLICITAÇÃO,Tablet,ALTA,Analista,Infraestrutura,Andar1,8,Sexta,0,baixa,2.46,SIM
+5041,SOLICITAÇÃO,Nobreak,BAIXA,Financeiro,Desenvolvimento,Remoto,8,Segunda,0,alta,75.23,NAO
+5109,PROBLEMA,Headset,MEDIA,Analista,Compras,Andar3,15,Sexta,0,baixa,32.83,NAO
+5156,PROBLEMA,Scanner,MEDIA,Financeiro,Suporte TI,Andar3,18,Domingo,3,media,13.12,SIM
+5157,SOLICITAÇÃO,Notebook,BAIXA,RH,Segurança da Informação,Andar2,17,Segunda,1,media,4.43,SIM
+5026,SOLICITAÇÃO,Notebook,ALTA,Analista,Administrativo,Andar1,11,Sabado,1,media,4.53,SIM
+5024,SOLICITAÇÃO,Telefone,MEDIA,Financeiro,Segurança da Informação,Andar1,9,Terca,1,baixa,20.77,SIM
+5185,PROBLEMA,Roteador,MEDIA,Desenvolvedor,Administrativo,Andar1,14,Quinta,2,media,18.46,SIM
+5148,PROBLEMA,Headset,MEDIA,Desenvolvedor,Suporte TI,Andar2,17,Terca,2,baixa,8.5,SIM
+5082,PROBLEMA,Monitor,MEDIA,Suporte,Infraestrutura,Andar1,16,Domingo,2,baixa,12.45,SIM
+5040,MANUTENÇÃO,Monitor,ALTA,Desenvolvedor,Desenvolvimento,Andar1,10,Domingo,0,media,0.2,SIM
+5169,SOLICITAÇÃO,Impressora,MEDIA,RH,Suporte TI,Andar1,14,Sabado,1,alta,12.56,SIM
+5048,PROBLEMA,Tablet,CRITICA,Suporte,Infraestrutura,Remoto,18,Terca,1,alta,0.83,SIM
+5095,SOLICITAÇÃO,Telefone,BAIXA,Analista,Compras,Andar2,16,Quarta,2,baixa,25.74,SIM
+5155,SOLICITAÇÃO,Tablet,MEDIA,Suporte,Suporte TI,Andar2,11,Domingo,3,baixa,18.34,SIM
+5044,PROBLEMA,Roteador,BAIXA,Desenvolvedor,Infraestrutura,Andar2,15,Quarta,1,baixa,45.49,SIM
+5139,PROBLEMA,Impressora,BAIXA,Desenvolvedor,Desenvolvimento,Andar3,10,Terca,0,baixa,51.29,SIM
+5004,PROBLEMA,Notebook,ALTA,Gerente,Compras,Andar2,15,Quarta,1,baixa,1.91,SIM
+5106,SOLICITAÇÃO,Impressora,ALTA,Financeiro,Compras,Andar3,13,Quarta,2,baixa,7.0,SIM
+5054,PROBLEMA,Telefone,ALTA,Desenvolvedor,Segurança da Informação,Andar2,17,Sexta,3,baixa,11.25,NAO
+5134,MANUTENÇÃO,Roteador,MEDIA,RH,Compras,Andar1,13,Domingo,1,baixa,27.24,NAO
+5181,SOLICITAÇÃO,Nobreak,BAIXA,Desenvolvedor,Desenvolvimento,Andar3,9,Domingo,2,media,74.1,NAO
+5179,PROBLEMA,Telefone,BAIXA,Analista,Infraestrutura,Andar2,9,Quinta,0,media,20.98,SIM
+5186,SOLICITAÇÃO,Roteador,BAIXA,Analista,Administrativo,Andar2,16,Quinta,2,media,53.13,SIM
+5050,SOLICITAÇÃO,Servidor,BAIXA,Suporte,Suporte TI,Andar1,10,Segunda,2,alta,240.0,NAO
+5081,MANUTENÇÃO,Monitor,MEDIA,Desenvolvedor,Administrativo,Andar2,18,Quinta,3,baixa,14.64,SIM
+5035,MANUTENÇÃO,Impressora,BAIXA,Financeiro,Suporte TI,Andar3,13,Segunda,1,media,67.98,SIM
+5008,MANUTENÇÃO,Servidor,ALTA,RH,Desenvolvimento,Andar2,16,Domingo,0,baixa,18.22,NAO
+5111,PROBLEMA,Monitor,MEDIA,RH,Desenvolvimento,Andar1,14,Segunda,3,alta,23.08,SIM
+5092,SOLICITAÇÃO,Nobreak,MEDIA,Suporte,Segurança da Informação,Andar1,14,Quarta,2,baixa,0.49,SIM
+5084,SOLICITAÇÃO,Telefone,BAIXA,RH,Segurança da Informação,Andar1,16,Quarta,0,media,66.99,SIM
+5177,SOLICITAÇÃO,Scanner,CRITICA,Desenvolvedor,Administrativo,Andar2,10,Quinta,3,media,8.97,NAO
+5182,SOLICITAÇÃO,Monitor,BAIXA,Gerente,Infraestrutura,Andar2,17,Domingo,1,media,83.56,NAO
+5090,PROBLEMA,Servidor,MEDIA,Suporte,Compras,Andar2,15,Domingo,0,baixa,25.57,NAO
+5009,SOLICITAÇÃO,Servidor,MEDIA,Suporte,Compras,Andar2,9,Sexta,1,media,15.74,SIM
+5014,PROBLEMA,Headset,MEDIA,Gerente,Infraestrutura,Andar2,14,Segunda,4,media,23.53,SIM
+5060,PROBLEMA,Scanner,MEDIA,Suporte,Infraestrutura,Andar2,13,Domingo,1,alta,11.54,SIM
+5172,SOLICITAÇÃO,Scanner,MEDIA,RH,Administrativo,Andar2,8,Quarta,1,baixa,33.09,NAO
+5132,PROBLEMA,Headset,BAIXA,RH,Compras,Andar1,10,Quarta,1,media,54.78,SIM
+5018,MANUTENÇÃO,Roteador,CRITICA,Gerente,Administrativo,Remoto,9,Domingo,0,media,0.93,SIM
+5073,PROBLEMA,Servidor,MEDIA,Desenvolvedor,Segurança da Informação,Andar2,11,Quinta,0,baixa,33.94,NAO
+5176,SOLICITAÇÃO,Servidor,MEDIA,Suporte,Desenvolvimento,Andar1,15,Domingo,0,media,19.34,SIM
+5135,MANUTENÇÃO,Scanner,BAIXA,RH,Administrativo,Andar1,15,Quarta,1,alta,1.49,SIM
+5168,PROBLEMA,Roteador,BAIXA,Desenvolvedor,Compras,Andar3,8,Quarta,2,baixa,53.14,SIM
+5184,MANUTENÇÃO,Telefone,ALTA,Suporte,Desenvolvimento,Andar1,11,Segunda,2,media,7.14,SIM
+5064,SOLICITAÇÃO,Impressora,MEDIA,Analista,Suporte TI,Andar3,11,Terca,0,baixa,39.88,NAO
+5055,MANUTENÇÃO,Servidor,BAIXA,Suporte,Segurança da Informação,Andar1,13,Domingo,1,media,32.38,SIM
+5108,SOLICITAÇÃO,Tablet,ALTA,Financeiro,Desenvolvimento,Andar1,8,Terca,2,alta,12.73,NAO
+5051,SOLICITAÇÃO,Scanner,MEDIA,Gerente,Infraestrutura,Andar1,12,Terca,3,baixa,43.26,NAO
+5197,PROBLEMA,Nobreak,BAIXA,Desenvolvedor,Administrativo,Andar1,8,Quinta,1,baixa,46.42,SIM
+5059,SOLICITAÇÃO,Nobreak,ALTA,Desenvolvedor,Desenvolvimento,Andar1,10,Domingo,1,media,6.66,SIM
+5049,MANUTENÇÃO,Impressora,ALTA,Analista,Infraestrutura,Andar3,10,Quarta,3,media,5.33,SIM
+5089,PROBLEMA,Roteador,MEDIA,Financeiro,Infraestrutura,Andar1,16,Sabado,2,baixa,18.67,SIM
+5022,PROBLEMA,Nobreak,ALTA,Gerente,Compras,Andar2,11,Sexta,1,baixa,8.97,NAO
+5058,SOLICITAÇÃO,Tablet,MEDIA,RH,Compras,Andar3,11,Terca,3,media,20.34,SIM
+5161,MANUTENÇÃO,Tablet,MEDIA,RH,Segurança da Informação,Andar2,12,Segunda,0,baixa,22.92,SIM
+5193,PROBLEMA,Tablet,BAIXA,Suporte,Suporte TI,Andar1,17,Quinta,1,media,52.42,SIM
+5130,SOLICITAÇÃO,Telefone,ALTA,Desenvolvedor,Desenvolvimento,Andar1,11,Terca,1,baixa,4.41,SIM
+5038,SOLICITAÇÃO,Impressora,MEDIA,Desenvolvedor,Segurança da Informação,Andar1,11,Domingo,2,alta,27.01,NAO
+5158,MANUTENÇÃO,Monitor,ALTA,Desenvolvedor,Administrativo,Andar1,15,Terca,2,baixa,12.93,NAO
+5194,SOLICITAÇÃO,Impressora,MEDIA,Suporte,Compras,Remoto,12,Segunda,3,media,15.33,SIM
+5002,MANUTENÇÃO,Monitor,MEDIA,Analista,Suporte TI,Andar1,17,Terca,0,media,34.42,NAO
+5053,PROBLEMA,Telefone,CRITICA,Analista,Desenvolvimento,Andar1,14,Quarta,0,baixa,1.16,SIM
+5150,SOLICITAÇÃO,Servidor,CRITICA,RH,Suporte TI,Andar2,14,Sabado,1,media,0.85,SIM
+5131,SOLICITAÇÃO,Impressora,BAIXA,Analista,Administrativo,Andar3,13,Sexta,2,media,113.19,NAO
+5152,PROBLEMA,Servidor,MEDIA,Gerente,Desenvolvimento,Andar3,11,Domingo,4,alta,24.15,NAO
+5104,PROBLEMA,Scanner,BAIXA,Gerente,Desenvolvimento,Andar3,15,Sabado,2,media,89.99,NAO
+5100,PROBLEMA,Headset,BAIXA,Financeiro,Segurança da Informação,Andar2,15,Quinta,1,baixa,17.08,SIM
+5117,MANUTENÇÃO,Scanner,CRITICA,Suporte,Infraestrutura,Andar2,18,Sabado,0,baixa,1.71,SIM
+5088,SOLICITAÇÃO,Telefone,BAIXA,Gerente,Desenvolvimento,Andar3,16,Quarta,1,baixa,101.77,NAO
+5075,SOLICITAÇÃO,Headset,MEDIA,Analista,Compras,Andar2,15,Domingo,5,media,19.01,SIM
+5122,PROBLEMA,Scanner,CRITICA,Gerente,Compras,Andar1,17,Quinta,2,baixa,4.07,NAO
+5200,PROBLEMA,Scanner,CRITICA,Gerente,Desenvolvimento,Andar2,12,Sexta,0,alta,7.57,NAO
+5021,PROBLEMA,Roteador,BAIXA,Gerente,Administrativo,Remoto,17,Segunda,0,media,5.44,SIM
+5189,SOLICITAÇÃO,Scanner,CRITICA,Financeiro,Administrativo,Andar2,8,Quarta,1,baixa,2.09,SIM
+5072,PROBLEMA,Telefone,BAIXA,RH,Segurança da Informação,Andar2,12,Sabado,0,media,68.97,SIM
+5107,PROBLEMA,Roteador,MEDIA,Desenvolvedor,Administrativo,Andar2,10,Quinta,4,baixa,36.44,NAO
+5015,MANUTENÇÃO,Impressora,MEDIA,Suporte,Segurança da Informação,Andar2,16,Quinta,0,baixa,15.95,SIM
+5093,PROBLEMA,Telefone,BAIXA,Financeiro,Compras,Andar1,14,Terca,1,media,95.1,NAO
+5180,SOLICITAÇÃO,Roteador,ALTA,Gerente,Desenvolvimento,Andar3,14,Segunda,2,media,7.32,SIM
+5103,SOLICITAÇÃO,Scanner,MEDIA,RH,Desenvolvimento,Andar1,10,Quarta,4,media,17.41,SIM

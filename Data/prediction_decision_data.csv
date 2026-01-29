@@ -1,0 +1,121 @@
+id_chamado,categoria,equipamento,prioridade,solicitante,equipe_destinada,localizacao,hora_registro,dia_semana,chamados_previos,carga_equipe
+8005,SOLICITAÇÃO,Impressora,MEDIA,Analista,Desenvolvimento,Remoto,8,Sexta,2,media
+8118,PROBLEMA,Headset,ALTA,Financeiro,Infraestrutura,Andar3,12,Terca,1,alta
+8113,SOLICITAÇÃO,Servidor,ALTA,Gerente,Compras,Remoto,17,Sexta,2,baixa
+8105,PROBLEMA,Servidor,ALTA,Suporte,Segurança da Informação,Remoto,16,Segunda,2,media
+8032,MANUTENÇÃO,Tablet,ALTA,Desenvolvedor,Infraestrutura,Remoto,15,Quarta,4,baixa
+8025,PROBLEMA,Servidor,ALTA,Analista,Desenvolvimento,Andar2,9,Terca,2,media
+8111,PROBLEMA,Notebook,MEDIA,Desenvolvedor,Desenvolvimento,Andar3,17,Terca,1,media
+8063,MANUTENÇÃO,Notebook,ALTA,RH,Administrativo,Andar3,12,Quarta,1,alta
+8017,MANUTENÇÃO,Tablet,BAIXA,Desenvolvedor,Desenvolvimento,Remoto,8,Segunda,1,alta
+8036,PROBLEMA,Headset,ALTA,Gerente,Compras,Remoto,10,Quarta,2,media
+8034,PROBLEMA,Telefone,BAIXA,Desenvolvedor,Suporte TI,Andar3,15,Sexta,0,alta
+8009,SOLICITAÇÃO,Impressora,BAIXA,RH,Compras,Andar3,10,Terca,1,media
+8006,PROBLEMA,Scanner,BAIXA,Desenvolvedor,Desenvolvimento,Remoto,12,Terca,2,alta
+8001,SOLICITAÇÃO,Roteador,BAIXA,RH,Desenvolvimento,Andar1,10,Segunda,1,media
+8014,SOLICITAÇÃO,Impressora,CRITICA,Gerente,Suporte TI,Andar3,12,Quarta,2,alta
+8078,SOLICITAÇÃO,Roteador,ALTA,Gerente,Segurança da Informação,Andar2,18,Quinta,1,baixa
+8088,SOLICITAÇÃO,Telefone,ALTA,RH,Desenvolvimento,Andar3,15,Sexta,1,alta
+8052,MANUTENÇÃO,Tablet,CRITICA,Financeiro,Infraestrutura,Remoto,16,Segunda,0,media
+8095,SOLICITAÇÃO,Tablet,MEDIA,Financeiro,Infraestrutura,Andar2,11,Quinta,1,alta
+8073,SOLICITAÇÃO,Monitor,BAIXA,Financeiro,Suporte TI,Remoto,17,Quinta,1,media
+8030,SOLICITAÇÃO,Nobreak,MEDIA,Financeiro,Compras,Andar1,16,Sexta,3,alta
+8086,PROBLEMA,Impressora,BAIXA,Analista,Administrativo,Andar2,16,Sexta,2,alta
+8066,SOLICITAÇÃO,Headset,ALTA,RH,Suporte TI,Andar2,11,Quinta,2,alta
+8057,SOLICITAÇÃO,Notebook,MEDIA,Analista,Desenvolvimento,Andar1,15,Segunda,1,baixa
+8054,PROBLEMA,Telefone,BAIXA,RH,Administrativo,Andar3,11,Quarta,2,media
+8029,PROBLEMA,Notebook,ALTA,Suporte,Administrativo,Remoto,8,Quarta,0,media
+8039,PROBLEMA,Impressora,CRITICA,Financeiro,Suporte TI,Remoto,18,Sexta,1,baixa
+8020,PROBLEMA,Nobreak,ALTA,Gerente,Compras,Andar3,15,Quinta,2,media
+8106,SOLICITAÇÃO,Telefone,CRITICA,Analista,Infraestrutura,Andar3,15,Segunda,2,alta
+8064,SOLICITAÇÃO,Tablet,BAIXA,Financeiro,Desenvolvimento,Andar3,13,Quarta,0,alta
+8024,MANUTENÇÃO,Nobreak,MEDIA,Desenvolvedor,Administrativo,Andar1,16,Sexta,0,alta
+8010,PROBLEMA,Nobreak,CRITICA,Analista,Compras,Remoto,18,Quinta,1,alta
+8120,MANUTENÇÃO,Impressora,MEDIA,Desenvolvedor,Compras,Andar2,16,Terca,2,media
+8094,SOLICITAÇÃO,Notebook,MEDIA,Desenvolvedor,Suporte TI,Andar2,16,Terca,0,alta
+8100,MANUTENÇÃO,Nobreak,CRITICA,Suporte,Administrativo,Andar3,11,Terca,2,baixa
+8080,SOLICITAÇÃO,Scanner,MEDIA,RH,Administrativo,Remoto,17,Sexta,5,media
+8046,SOLICITAÇÃO,Tablet,CRITICA,RH,Suporte TI,Andar1,17,Sexta,1,media
+8075,SOLICITAÇÃO,Tablet,MEDIA,Analista,Infraestrutura,Andar3,9,Quinta,3,baixa
+8060,PROBLEMA,Servidor,MEDIA,Gerente,Segurança da Informação,Andar3,12,Terca,2,baixa
+8022,PROBLEMA,Notebook,MEDIA,RH,Compras,Andar1,18,Quarta,2,media
+8061,MANUTENÇÃO,Notebook,ALTA,Desenvolvedor,Compras,Remoto,8,Quarta,2,baixa
+8043,MANUTENÇÃO,Notebook,CRITICA,Suporte,Infraestrutura,Andar2,8,Segunda,1,media
+8101,SOLICITAÇÃO,Impressora,CRITICA,Gerente,Compras,Remoto,16,Quinta,0,alta
+8072,SOLICITAÇÃO,Nobreak,BAIXA,Desenvolvedor,Desenvolvimento,Andar3,13,Quinta,1,baixa
+8117,MANUTENÇÃO,Nobreak,MEDIA,Gerente,Suporte TI,Andar2,10,Quinta,3,alta
+8042,SOLICITAÇÃO,Roteador,ALTA,Gerente,Segurança da Informação,Andar3,13,Quinta,0,baixa
+8045,MANUTENÇÃO,Monitor,BAIXA,RH,Administrativo,Andar3,13,Terca,0,alta
+8112,MANUTENÇÃO,Scanner,ALTA,Gerente,Administrativo,Andar1,12,Sexta,2,media
+8115,PROBLEMA,Scanner,ALTA,RH,Compras,Andar3,17,Segunda,2,alta
+8071,PROBLEMA,Impressora,ALTA,RH,Suporte TI,Andar3,13,Sexta,2,alta
+8013,PROBLEMA,Impressora,MEDIA,Financeiro,Segurança da Informação,Remoto,18,Quinta,0,baixa
+8096,MANUTENÇÃO,Notebook,CRITICA,Gerente,Desenvolvimento,Andar3,18,Sexta,1,alta
+8021,SOLICITAÇÃO,Nobreak,ALTA,Financeiro,Suporte TI,Andar2,14,Sexta,1,media
+8051,SOLICITAÇÃO,Telefone,MEDIA,RH,Infraestrutura,Remoto,9,Terca,2,alta
+8116,PROBLEMA,Scanner,BAIXA,Financeiro,Desenvolvimento,Remoto,13,Sexta,2,alta
+8038,PROBLEMA,Telefone,BAIXA,Gerente,Suporte TI,Andar1,15,Quinta,1,alta
+8044,MANUTENÇÃO,Impressora,MEDIA,Desenvolvedor,Segurança da Informação,Remoto,12,Terca,2,media
+8002,MANUTENÇÃO,Nobreak,ALTA,Desenvolvedor,Suporte TI,Andar2,11,Terca,2,media
+8089,MANUTENÇÃO,Telefone,MEDIA,Gerente,Suporte TI,Andar3,10,Segunda,4,alta
+8055,SOLICITAÇÃO,Tablet,BAIXA,Analista,Administrativo,Andar1,16,Sexta,0,alta
+8012,SOLICITAÇÃO,Tablet,BAIXA,Suporte,Desenvolvimento,Remoto,12,Terca,4,alta
+8091,MANUTENÇÃO,Monitor,MEDIA,Financeiro,Segurança da Informação,Andar2,11,Sexta,1,alta
+8090,SOLICITAÇÃO,Scanner,ALTA,RH,Compras,Andar2,13,Segunda,1,alta
+8015,PROBLEMA,Tablet,CRITICA,Analista,Suporte TI,Andar1,18,Sexta,3,media
+8007,MANUTENÇÃO,Nobreak,ALTA,Analista,Segurança da Informação,Remoto,8,Sexta,2,alta
+8027,SOLICITAÇÃO,Servidor,ALTA,Financeiro,Infraestrutura,Andar1,11,Sexta,3,media
+8102,SOLICITAÇÃO,Telefone,MEDIA,Desenvolvedor,Desenvolvimento,Andar3,18,Segunda,3,media
+8031,PROBLEMA,Telefone,BAIXA,Suporte,Suporte TI,Andar3,14,Quinta,1,media
+8083,MANUTENÇÃO,Scanner,CRITICA,Desenvolvedor,Compras,Andar2,8,Quinta,2,media
+8016,MANUTENÇÃO,Monitor,BAIXA,RH,Suporte TI,Remoto,10,Segunda,2,alta
+8019,MANUTENÇÃO,Impressora,ALTA,Suporte,Infraestrutura,Andar1,10,Segunda,3,alta
+8023,MANUTENÇÃO,Scanner,ALTA,RH,Suporte TI,Andar2,8,Sexta,1,media
+8011,PROBLEMA,Notebook,MEDIA,Financeiro,Suporte TI,Andar3,18,Segunda,1,media
+8059,SOLICITAÇÃO,Monitor,CRITICA,Suporte,Suporte TI,Andar2,9,Segunda,1,media
+8082,MANUTENÇÃO,Notebook,MEDIA,Suporte,Administrativo,Andar1,16,Segunda,1,media
+8076,PROBLEMA,Roteador,BAIXA,Analista,Suporte TI,Remoto,13,Quarta,0,alta
+8065,SOLICITAÇÃO,Telefone,BAIXA,Suporte,Desenvolvimento,Andar1,8,Quinta,3,alta
+8070,MANUTENÇÃO,Monitor,ALTA,Analista,Suporte TI,Andar3,11,Segunda,2,media
+8004,PROBLEMA,Monitor,BAIXA,Desenvolvedor,Compras,Remoto,8,Segunda,2,baixa
+8041,PROBLEMA,Headset,BAIXA,Desenvolvedor,Compras,Remoto,15,Terca,3,alta
+8077,SOLICITAÇÃO,Nobreak,MEDIA,Desenvolvedor,Desenvolvimento,Andar3,11,Segunda,2,alta
+8035,PROBLEMA,Notebook,CRITICA,Analista,Administrativo,Remoto,11,Quarta,2,baixa
+8028,SOLICITAÇÃO,Telefone,MEDIA,Financeiro,Infraestrutura,Remoto,12,Quinta,0,alta
+8053,SOLICITAÇÃO,Roteador,MEDIA,RH,Compras,Andar1,18,Terca,2,baixa
+8008,MANUTENÇÃO,Headset,CRITICA,Financeiro,Compras,Remoto,14,Quarta,1,alta
+8049,PROBLEMA,Telefone,BAIXA,Analista,Infraestrutura,Remoto,10,Quarta,3,baixa
+8062,SOLICITAÇÃO,Notebook,BAIXA,Analista,Infraestrutura,Andar3,18,Terca,2,baixa
+8108,MANUTENÇÃO,Scanner,CRITICA,RH,Compras,Andar1,18,Quinta,2,baixa
+8092,MANUTENÇÃO,Monitor,CRITICA,Financeiro,Infraestrutura,Remoto,11,Quarta,0,media
+8119,SOLICITAÇÃO,Tablet,BAIXA,Financeiro,Segurança da Informação,Andar1,14,Quarta,0,media
+8040,PROBLEMA,Telefone,MEDIA,Financeiro,Suporte TI,Remoto,11,Sexta,1,alta
+8085,MANUTENÇÃO,Headset,ALTA,Desenvolvedor,Administrativo,Remoto,17,Quarta,1,media
+8003,MANUTENÇÃO,Telefone,MEDIA,Gerente,Suporte TI,Remoto,9,Segunda,1,alta
+8068,PROBLEMA,Nobreak,MEDIA,RH,Suporte TI,Andar3,11,Segunda,2,alta
+8056,PROBLEMA,Monitor,MEDIA,RH,Infraestrutura,Remoto,15,Terca,0,media
+8050,PROBLEMA,Monitor,ALTA,Suporte,Compras,Andar3,11,Terca,1,alta
+8069,MANUTENÇÃO,Impressora,MEDIA,Desenvolvedor,Infraestrutura,Andar1,18,Terca,4,alta
+8081,SOLICITAÇÃO,Servidor,BAIXA,RH,Suporte TI,Andar3,14,Segunda,1,baixa
+8104,MANUTENÇÃO,Tablet,CRITICA,Suporte,Segurança da Informação,Andar1,15,Terca,2,baixa
+8037,MANUTENÇÃO,Headset,ALTA,Gerente,Compras,Remoto,11,Sexta,1,alta
+8079,PROBLEMA,Monitor,MEDIA,Gerente,Compras,Andar1,15,Sexta,1,baixa
+8114,PROBLEMA,Impressora,MEDIA,RH,Segurança da Informação,Andar3,17,Quinta,3,alta
+8026,PROBLEMA,Tablet,BAIXA,Financeiro,Suporte TI,Andar2,15,Sexta,2,baixa
+8109,SOLICITAÇÃO,Roteador,CRITICA,RH,Compras,Andar3,9,Quarta,0,media
+8047,MANUTENÇÃO,Tablet,ALTA,Gerente,Segurança da Informação,Andar2,18,Terca,1,baixa
+8033,SOLICITAÇÃO,Tablet,BAIXA,RH,Segurança da Informação,Andar3,9,Terca,1,alta
+8074,MANUTENÇÃO,Impressora,MEDIA,RH,Suporte TI,Remoto,18,Terca,1,baixa
+8048,SOLICITAÇÃO,Notebook,MEDIA,Gerente,Suporte TI,Remoto,15,Segunda,4,baixa
+8097,PROBLEMA,Servidor,BAIXA,RH,Compras,Remoto,15,Quinta,2,media
+8098,SOLICITAÇÃO,Tablet,CRITICA,Suporte,Suporte TI,Andar3,15,Quinta,1,media
+8087,MANUTENÇÃO,Headset,BAIXA,RH,Compras,Andar2,16,Sexta,1,media
+8058,SOLICITAÇÃO,Scanner,CRITICA,Gerente,Compras,Remoto,8,Segunda,1,baixa
+8107,SOLICITAÇÃO,Telefone,MEDIA,Gerente,Suporte TI,Andar1,15,Quinta,1,alta
+8084,MANUTENÇÃO,Monitor,BAIXA,Analista,Infraestrutura,Andar2,8,Terca,1,alta
+8018,PROBLEMA,Tablet,ALTA,Analista,Compras,Andar2,11,Quinta,2,baixa
+8103,SOLICITAÇÃO,Notebook,BAIXA,Financeiro,Infraestrutura,Andar1,12,Sexta,4,media
+8099,SOLICITAÇÃO,Monitor,BAIXA,Suporte,Desenvolvimento,Andar3,16,Quarta,3,baixa
+8093,MANUTENÇÃO,Tablet,ALTA,Desenvolvedor,Compras,Remoto,10,Terca,1,baixa
+8067,MANUTENÇÃO,Monitor,MEDIA,Gerente,Compras,Andar3,13,Quinta,0,media
+8110,SOLICITAÇÃO,Telefone,MEDIA,Analista,Suporte TI,Remoto,10,Quinta,2,alta
